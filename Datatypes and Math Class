@@ -25,6 +25,15 @@ namespace Hello
             Console.WriteLine(s);
 
 
+
+           //Math Class:    //present in class system
+           Math.Max(34, 345);    //return the max value  
+           Math.Min(34, 345);    //return the min value 
+           double a =Math.Sqrt(36);      //sqrt returns double
+           int b = Math.Abs(39);     //absolute value
+           Math.Round(a);
+           
+           
             Console.ReadLine();
         }
     }
