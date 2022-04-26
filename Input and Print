@@ -22,6 +22,15 @@ namespace Hello
             Console.Write("I am Abiha.");
             Console.WriteLine(" Ilove C# and the number is "+abiha);
             
+            
+            Console.WriteLine("Enter your name ");
+            string name= Console.ReadLine();
+            Console.WriteLine("Hey Hello "+name);
+            
+            Console.WriteLine("How many candies do you want? ");
+            string candies = Console.ReadLine();
+
+            
                        Console.ReadLine();
         }
     }
